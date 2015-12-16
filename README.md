@@ -30,7 +30,7 @@ optional arguments:
 
 Authors: Jian-Long Huang and Tony Kuo.
 
-This program were originally designed by Ching-Hsin Liu.
+This program was originally designed by Ching-Hsin Liu.
 
 ## License
 
