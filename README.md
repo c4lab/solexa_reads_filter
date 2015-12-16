@@ -26,6 +26,12 @@ optional arguments:
   --version   show program's version number and exit
 ```
 
+## Contributors
+
+Authors: Jian-Long Huang and Tony Kuo.
+
+This program were originally designed by Ching-Hsin Liu.
+
 ## License
 
 solexa\_reads\_filter is released under the [MIT license](http://www.opensource.org/licenses/MIT).
