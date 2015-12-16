@@ -1,6 +1,6 @@
 ## solexa\_reads\_filter
 
-solexa\_reads\_filter is a small commond-line program to filter Solexa reads. Supported filters include:
+solexa\_reads\_filter is a small command-line program to filter Solexa reads. Supported filters include:
 
 * **s35**: From the 5' end of the read, the first 25 of 35 bases must have quality scores of at least 30, otherwise the read is discarded. (If the read length is lower than 35, the read will be discarded.)
 * **Ns**: If there exists an ambiguous base (N call) then the read is discarded.
